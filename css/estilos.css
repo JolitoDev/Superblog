@@ -11,6 +11,12 @@ body {
 	text-align: left;
 	border: 1px solid #ddd;
 	margin: 0 auto;
+
 	
+}
+#cabecera
+{
+	background-color: blue;
+	font-family: "arial";
 	
 }
